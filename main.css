@@ -20,7 +20,6 @@ body {
   text-align: center;
   font-size: 1.6rem;
   font-family: "Poppins", sans-serif;
-  min-height: 100vh;
 }
 
 .hero {
@@ -110,7 +109,8 @@ body {
   }
 
   .hero {
-    max-width: 1024px;
+    max-width: 1440px;
+    margin: 0 30px;
   }
 
   .hero__main {
@@ -119,10 +119,10 @@ body {
     gap: 30px;
   }
   .hero__main__img {
-    width: 50%;
+    width: 60%;
   }
   .hero__main__text {
-    width: 50%;
+    width: 40%;
   }
 
   .hero__main__img img {
@@ -134,7 +134,7 @@ body {
     font-size: 3.4rem;
   }
   .hero__main__text p {
-    font-size: 1.6rem;
+    font-size: 1.35rem;
     letter-spacing: 0.5px;
     line-height: 1.6;
   }
