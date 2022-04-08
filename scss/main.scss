@@ -91,11 +91,12 @@ body {
 .hero__social {
   // outline: 1px solid red;
   margin-bottom: 40px;
-  i {
+  a {
+    display: inline-block;
     margin: 5px;
     border: 2px solid white;
     border-radius: 50%;
-    padding: 10px;
+    padding: 5px;
     width: 40px;
     color: #fff;
     &:hover {
