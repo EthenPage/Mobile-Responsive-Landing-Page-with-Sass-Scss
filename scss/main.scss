@@ -81,7 +81,7 @@ body {
 
 .btn {
   @include btn(#fff, $Violet);
-  transition: background-color 0.5s;
+  // transition: background-color 0.5s;
   &:hover {
     background-color: $Soft-Magenta;
     color: #fff;
