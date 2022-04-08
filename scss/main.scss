@@ -33,8 +33,6 @@ $Soft-Magenta: hsl(300, 69%, 71%);
   max-width: 70%;
 }
 
-
-
 *,
 ::after,
 ::before {
@@ -78,24 +76,28 @@ body {
   @include beautify;
 }
 
-.btn{
-    @include btn(#fff, $Violet);
+.btn {
+  @include btn(#fff, $Violet);
+  transition: 0.5s;
+  &:hover {
+    background-color: $Soft-Magenta;
+    color: #fff;
+  }
 }
 
-.hero__social{
-    // outline: 1px solid red;
-    margin-bottom: 40px;
-    i{
-        margin: 5px ;
-        border: 2px solid white;
-        border-radius: 50%;
-        padding: 10px;
-        width: 40px;
-        color: #fff;
-        &:hover{
-            color: $Soft-Magenta;
-            border-color: $Soft-Magenta;
-        }
+.hero__social {
+  // outline: 1px solid red;
+  margin-bottom: 40px;
+  i {
+    margin: 5px;
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    width: 40px;
+    color: #fff;
+    &:hover {
+      color: $Soft-Magenta;
+      border-color: $Soft-Magenta;
     }
-    
+  }
 }
