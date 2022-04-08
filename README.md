@@ -18,7 +18,7 @@ Solution of [Huddle landing page with single introductory section challenge on F
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-responsive-hero-section-with-sassscss-S1d-hz0X5)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-responsive-hero-section-with-sassscss-SJRNhV0Q5)
 - Live Site URL: [Live](https://ethenpage.github.io/Mobile-Responsive-Landing-Page-with-Sass-Scss/)
 
 ## Built with
