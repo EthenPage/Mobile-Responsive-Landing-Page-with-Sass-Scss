@@ -1,4 +1,4 @@
-# Frontend Mentor - Huddle landing page with single introductory section solution
+# Mobile Responsive Landing Page Hero Section Only
 
 Solution of [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). 
 - 8 April 2022.
@@ -19,7 +19,7 @@ Solution of [Huddle landing page with single introductory section challenge on F
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://ethenpage.github.io/Mobile-Responsive-Landing-Page-with-Sass-Scss/)
 
 ## Built with
 
