@@ -81,3 +81,21 @@ body {
 .btn{
     @include btn(#fff, $Violet);
 }
+
+.hero__social{
+    // outline: 1px solid red;
+    margin-bottom: 40px;
+    i{
+        margin: 5px ;
+        border: 2px solid white;
+        border-radius: 50%;
+        padding: 10px;
+        width: 40px;
+        color: #fff;
+        &:hover{
+            color: $Soft-Magenta;
+            border-color: $Soft-Magenta;
+        }
+    }
+    
+}
