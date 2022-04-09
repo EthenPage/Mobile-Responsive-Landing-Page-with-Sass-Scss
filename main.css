@@ -140,7 +140,7 @@ body {
   }
 
   .btn {
-    min-width: 50%;
+    min-width: 250px;
   }
 
   .hero__social {
